@@ -1,0 +1,10 @@
+pandas
+numpy
+openai==0.28
+langchain
+spacy
+plotly
+sklearn
+
+# Command to run after installing packages for NLP models
+# python -m spacy download en_core_web_sm
