@@ -1,12 +1,13 @@
-# Code-Cubicle-3.0
-Gen Ai Project for Mastercard and Geek Room's Code the Cubicle 3.0
+# INSIGHTFLOW
+Representing the seamless flow of insights from data
 
-SMART QUERY AI
+Problem Statment-
+In a world overflowing with data, the ability to extract valuable insights from structured datasets is critical. The challenge involves developing a GenAI system that can interpret and provide meaningful information from structured data sources, such as databases, spreadsheets, or APIs. This AI should be capable of understanding complex queries in natural language, generating insightful summaries, identifying patterns, and offering predictive analytics. The goal is to create a versatile tool that can serve various industries, from finance and healthcare to education and logistics, making data-driven decisions accessible to everyone.
 
 
 Overview
 
-SMART QUERY AI is a versatile Generative AI system that integrates multiple structured data sources (CSV, SQL, NoSQL, and APIs) and generates meaningful insights, patterns, or anomaly detection from these data sources. It allows users to input natural language queries, processes them using advanced NLP techniques, and provides results powered by OpenAI and SerpAPI.
+INSIGHTFLOW is a versatile Generative AI system that integrates multiple structured data sources (CSV, SQL, NoSQL, and APIs) and generates meaningful insights, patterns, or anomaly detection from these data sources. It allows users to input natural language queries, processes them using advanced NLP techniques, and provides results powered by OpenAI and SerpAPI.
 
 The project is designed to help users analyze and make data-driven decisions across multiple industries such as finance, healthcare, education, logistics, and more.
 
